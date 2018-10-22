@@ -11,12 +11,12 @@
         }
     ],
     "require": {
-        "symfony-cmf/routing-bundle": "^1.3",
-        "symfony/filesystem": "~2.7",
-        "symfony/framework-bundle": "~2.2"
+        "symfony-cmf/routing-bundle": "~2.1.1",
+        "symfony/filesystem": "~4.1",
+        "symfony/framework-bundle": "~4.1"
     },
     "require-dev": {
-        "matthiasnoback/symfony-dependency-injection-test": "~0.7"
+        "matthiasnoback/symfony-dependency-injection-test": "~3.0"
     },
     "autoload": {
         "psr-0": { "Limenius\\Bundle\\FilesystemRouterBundle": "" }
